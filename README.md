@@ -1,38 +1,37 @@
-<div align="center">
-    <br>
-    <br>
-    <a href="https://status.nmoo.dev/blocks/1">
-        <img src="https://status.nmoo.dev/blocks/1" width="32" height="32">
-    </a>
-    <a href="https://status.nmoo.dev/blocks/2">
-        <img src="https://status.nmoo.dev/blocks/2" width="32" height="32">
-    </a>
-    <a href="https://status.nmoo.dev/blocks/3">
-        <img src="https://status.nmoo.dev/blocks/3" width="32" height="32">
-    </a>
-    <a href="https://status.nmoo.dev/blocks/4">
-        <img src="https://status.nmoo.dev/blocks/4" width="32" height="32">
-    </a>
-    <a href="https://status.nmoo.dev/blocks/5">
-        <img src="https://status.nmoo.dev/blocks/5" width="32" height="32">
-    </a>
-    <a href="https://status.nmoo.dev/blocks/6">
-        <img src="https://status.nmoo.dev/blocks/6" width="32" height="32">
-    </a>
-    <a href="https://status.nmoo.dev/blocks/7">
-        <img src="https://status.nmoo.dev/blocks/7" width="32" height="32">
-    </a>
-    <a href="https://status.nmoo.dev/blocks/8">
-        <img src="https://status.nmoo.dev/blocks/8" width="32" height="32">
-    </a>
-    <p align="center">Click and refresh to change block color</p>
-    <br>
-</div>
+# Hey, I'm Nate!
 
----
+I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens. If you're interested in the work I do, please consider supporting me on GitHub!
 
-**Now Playing** on Spotify
+<a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 
+<<<<<<< HEAD
 <a href="https://spotify-now-playing-song.vercel.app/now-playing?open">
     <img src="https://spotify-now-playing-song.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
+=======
+| Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
+>>>>>>> upstream/master
