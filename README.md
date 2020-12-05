@@ -4,11 +4,6 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
 
 <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
 
-<<<<<<< HEAD
-<a href="https://spotify-now-playing-song.vercel.app/now-playing?open">
-    <img src="https://spotify-now-playing-song.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
-=======
 | Now Playing                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
@@ -34,4 +29,3 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
     </tr>
   </tbody>
 </table>
->>>>>>> upstream/master
